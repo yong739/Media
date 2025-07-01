@@ -5,7 +5,7 @@
 
 "lives": [
 {
-    "name": "MQiTV",
+    "name": "MQiTV1",
       "api": "csp_MQiTV",
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
       "ext": "http://182.113.234.53:8899",
@@ -15,7 +15,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },
 {
-      "name": "MQiTV", 
+      "name": "MQiTV2", 
       "api": "csp_MQiTV",
       "jar": "http://223.10.162.245:8001/custom_spider.jar",
       "ext": "https://59.125.210.231:4433", 
@@ -23,7 +23,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },	
 {
-    "name": "MQiTV",
+    "name": "MQiTV3",
       "api": "csp_MQiTV",
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
       "ext": "https://60.248.127.232:4433",
