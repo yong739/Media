@@ -32,14 +32,19 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },	
-{"name": "🍳┃台湾全岛直播1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:4433"},
-{"name": "🍳┃台湾全岛直播2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://60.248.127.232:8014"},
-{"name": "🍳┃台湾全岛直播3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:8014"},
 {"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://60.248.127.232:4433"},
-{"name": "🍳┃台湾全岛直播5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://220.135.93.56"},
-{"name": "🍳┃吉林","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://122.137.91.134:4433"},
-{"name": "🍳┃广东","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.90.237.236:4433"},
-
+	
+{"name": "🍳┃广东1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.116.5.227:8014"},
+{"name": "🍳┃广东2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.111.21.75:8082"},
+{"name": "🍳┃广东3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://183.236.208.70:8800"},
+{"name": "🍳┃广东4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.110.166.236:4433"},
+{"name": "🍳┃广东5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.90.237.236:4433"},
+{"name": "🍳┃吉林1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://175.16.58.182:4433"},
+{"name": "🍳┃吉林2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://119.49.79.161:4433"},
+{"name": "🍳┃吉林3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://175.16.58.196:4433"},
+{"name": "🍳┃吉林4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://139.213.176.198:4433"},
+{"name": "🍳┃吉林5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://175.22.69.134:4433"},
+	
 {"name": "🦸┃tangTV直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u","playerType":1},
 {"name": "📢┃xTV直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/live_ipv4.m3u","playerType":1},
 {"name": "👟┃SuperMAN直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u","playerType":1},
