@@ -34,7 +34,7 @@
 },	
 {"name": "🍳┃台湾全岛直播1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://60.248.127.232:4433"},
 {"name": "🍳┃台湾全岛直播2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:4433"},
-{"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://220.135.93.56"},
+{"name": "🍳┃台湾全岛直播3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://220.135.93.56"},
 {"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://webiptv2.jeoutai.com.tw"},
 
 
