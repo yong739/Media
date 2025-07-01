@@ -32,7 +32,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },	
-{"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://60.248.127.232:4433"},
+{"name": "🍳┃台湾全岛直播1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://60.248.127.232:4433"},
+{"name": "🍳┃台湾全岛直播2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:4433"},
+{"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://220.135.93.56"},
+{"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://webiptv2.jeoutai.com.tw"},
+
+
+
 	
 {"name": "🍳┃广东1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.116.5.227:8014"},
 {"name": "🍳┃广东2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.111.21.75:8082"},
