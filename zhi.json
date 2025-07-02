@@ -8,7 +8,7 @@
     "name": "MQiTV1",
       "api": "csp_MQiTV",
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
-      "ext": "http://182.113.234.53:8899",
+      "ext": "http://123.10.62.75:8887",
       "playerType": 1,
 
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -18,7 +18,7 @@
       "name": "MQiTV2", 
       "api": "csp_MQiTV",
       "jar": "http://223.10.162.245:8001/custom_spider.jar",
-      "ext": "https://59.125.210.231:4433", 
+      "ext": "http://123.12.16.118:8885", 
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },	
@@ -26,7 +26,7 @@
     "name": "MQiTV3",
       "api": "csp_MQiTV",
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
-      "ext": "https://60.248.127.232:4433",
+      "ext": "http://1.69.54.19:3000",
       "playerType": 1,
 
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -34,22 +34,28 @@
 },	
 {"name": "🍳┃台湾全岛直播1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://60.248.127.232:4433"},
 {"name": "🍳┃台湾全岛直播2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:4433"},
-{"name": "🍳┃台湾全岛直播3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://220.135.93.56"},
-{"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://webiptv2.jeoutai.com.tw"},
+{"name": "🍳┃台湾全岛直播3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://61.216.180.81:5003"},
+{"name": "🍳┃台湾全岛直播4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://60.250.121.217:5003"},
+{"name": "🍳┃台湾全岛直播5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://60.250.121.103:5003"},
+{"name": "🍳┃台湾全岛直播6","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://61.220.72.26:5003"},
+{"name": "🍳┃台湾全岛直播7","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://61.216.26.165:5003"},
+{"name": "🍳┃台湾全岛直播8","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://123.51.229.128:5003"},
+
+	
 
 
 
 	
-{"name": "🍳┃广东1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.116.5.227:8014"},
-{"name": "🍳┃广东2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.111.21.75:8082"},
-{"name": "🍳┃广东3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://183.236.208.70:8800"},
-{"name": "🍳┃广东4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.110.166.236:4433"},
-{"name": "🍳┃广东5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.90.237.236:4433"},
-{"name": "🍳┃吉林1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://175.16.58.182:4433"},
-{"name": "🍳┃吉林2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://119.49.79.161:4433"},
-{"name": "🍳┃吉林3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://175.16.58.196:4433"},
-{"name": "🍳┃吉林4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://139.213.176.198:4433"},
-{"name": "🍳┃吉林5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://175.22.69.134:4433"},
+{"name": "🍳┃广东1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.116.5.58:4433"},
+{"name": "🍳┃广东2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.116.5.227:8014"},
+{"name": "🍳┃广东3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.111.21.75:8082"},
+{"name": "🍳┃广东4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://183.236.208.70:8800"},
+{"name": "🍳┃广东5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.116.5.227:5003"},
+{"name": "🍳┃吉林1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.90.237.236:4433"},
+{"name": "🍳┃吉林2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.111.19.105:8082"},
+{"name": "🍳┃吉林3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.90.237.236:5003"},
+{"name": "🍳┃吉林4","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://113.110.166.236:4433"},
+{"name": "🍳┃吉林5","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://113.110.166.236:8014"},
 	
 {"name": "🦸┃tangTV直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u","playerType":1},
 {"name": "📢┃xTV直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/live_ipv4.m3u","playerType":1},
