@@ -4,31 +4,7 @@
 
 
 "lives": [
-{
-    "name": "MQiTV1",
-      "api": "csp_MQiTV",
-      "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
-      "ext": "http://123.10.179.157:8899",
-      "playerType": 1,
 
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-},
-{
-      "name": "MQiTV2", 
-      "api": "csp_MQiTV",
-      "jar": "http://223.10.162.245:8001/custom_spider.jar",
-      "ext": "http://123.10.55.39:8899", 
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-},	
-{
-    "name": "MQiTV3",
-      "api": "csp_MQiTV",
-      "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
-      "ext": "http://115.58.121.250:8899",
-      "playerType": 1,"logo": "https://epg.112114.xyz/logo/{name}.png","epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-},	
 {"name": "🍳┃台湾全岛直播1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://60.248.127.232:4433"},
 {"name": "🍳┃台湾全岛直播2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:4433"},
 {"name": "🍳┃台湾全岛直播3","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://61.216.180.81:5003"},
