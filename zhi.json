@@ -38,8 +38,8 @@
 {"name": "🍳┃台湾全岛直播7","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://61.216.26.165:5003"},
 {"name": "🍳┃台湾全岛直播8","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://123.51.229.128:5003"},
 
-{"name": "🍳┃河南1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://123.10.62.68:8899","playerType": 1,"logo": "https://epg.112114.xyz/logo/{name}.png","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name": "🍳┃河南2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://123.10.62.75:8899","playerType": 1,"logo": "https://epg.112114.xyz/logo/{name}.png","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name": "🍳┃河南1","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://123.10.62.68:8899","playerType": 1,"logo": "https://epg.112114.xyz/logo/{name}.png","epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+{"name": "🍳┃河南2","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "http://123.10.62.75:8899","playerType": 1,"logo": "https://epg.112114.xyz/logo/{name}.png","epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 
 
 
