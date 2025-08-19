@@ -22,7 +22,7 @@ jobs:
       run: pip install requests
 
     - name: Run Python script
-      run: python ./fan.py
+      run: python ./fanqian.py
 
     - id: check
       name: Check for changes
