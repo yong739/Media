@@ -31,10 +31,10 @@ def get_fan_conf():
         url = url_match.group(1)
         content = content.replace(url, './jar/fan.txt')
     content = diy_conf(content)
-    with open('xo.json', 'w', newline='', encoding='utf-8') as f:
+    with open('old.json', 'w', newline='', encoding='utf-8') as f:
         f.write(content)
     local_content = local_conf(content)
-    with open('a.json', 'w', newline='', encoding='utf-8') as f:
+    with open('fan.json', 'w', newline='', encoding='utf-8') as f:
         f.write(local_content)
     config.set("md5", "conf", md5)
     with open("config.ini", "w") as f:
@@ -59,7 +59,7 @@ def diy_conf(content):
 
 def local_conf(content):
     # 在"米搜"条目前插入采集站，保留其他内容不变
-    pattern = r'(?=({"key":"米搜"))'
+    pattern = r'(?=({"key":"抠搜"))'
     insertion = (
         '{"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0},\n'
         '{"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},\n'
