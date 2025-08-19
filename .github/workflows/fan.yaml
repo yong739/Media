@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     
   schedule:
-    - cron: '5 */4 * * *'
+    - cron: '0 10 * * *'
 
 jobs:
   run_python_script:
@@ -22,7 +22,7 @@ jobs:
       run: pip install requests
 
     - name: Run Python script
-      run: python ./fanhou.py
+      run: python ./fanqian.py
 
     - id: check
       name: Check for changes
