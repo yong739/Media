@@ -31,10 +31,10 @@ def get_fan_conf():
         url = url_match.group(1)
         content = content.replace(url, './jar/fan.txt')
     content = diy_conf(content)
-    with open('old.json', 'w', newline='', encoding='utf-8') as f:
+    with open('fan.json', 'w', newline='', encoding='utf-8') as f:
         f.write(content)
     local_content = local_conf(content)
-    with open('fan.json', 'w', newline='', encoding='utf-8') as f:
+    with open('new.json', 'w', newline='', encoding='utf-8') as f:
         f.write(local_content)
     config.set("md5", "conf", md5)
     with open("config.ini", "w") as f:
