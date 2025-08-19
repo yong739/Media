@@ -29,7 +29,7 @@ def get_fan_conf():
     url_match = re.search(r'spider"\:"(.*);md5;', content)
     if url_match:
         url = url_match.group(1)
-        content = content.replace(url, './JAR/fan.txt')
+        content = content.replace(url, './jar/fan.txt')
     content = diy_conf(content)
     with open('xo.json', 'w', newline='', encoding='utf-8') as f:
         f.write(content)
@@ -48,7 +48,7 @@ def get_fan_conf():
             with open("config.ini", "w") as f:
                 config.write(f)
             response = requests.get(url)
-            with open("./JAR/fan.txt", "wb") as f:
+            with open("./jar/fan.txt", "wb") as f:
                 f.write(response.content)
 
 def diy_conf(content):
