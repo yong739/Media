@@ -58,7 +58,7 @@ def diy_conf(content):
     return content
 
 def local_conf(content):
-    # 在"米搜"条目前插入采集站，保留其他内容不变
+    # 在"抠搜"条目前插入采集站，保留其他内容不变
     pattern = r'(?=({"key":"抠搜"))'
     insertion = (
         '{"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0},\n'
