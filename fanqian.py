@@ -9,7 +9,7 @@ headers = {'User-Agent': 'okhttp/3.15'}
 def get_fan_conf():
     config = configparser.ConfigParser()
     config.read("config.ini")
-    url = 'http://www.饭太硬.net/tv/'
+    url = 'http://www.饭太硬.com/tv/'
     response = requests.get(url, headers=headers)
     match = re.search(r'[A-Za-z0]{8}\*\*(.*)', response.text)
     if not match:
